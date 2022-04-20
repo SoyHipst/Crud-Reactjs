@@ -1,6 +1,6 @@
-# React CRUD con Django REST API, MySQL & Bootstrap
+# React CRUD con Django & Bootstrap
 
-CRUD con React.js, consumiendo una REST API creada con Python, Base de datos con Django y MySQL;
+CRUD con React.js, consumiendo una REST API creada con Python, Base de datos con Django;
 <hr/>
 
 # Getting Started with Create React App
